@@ -1,0 +1,63 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.link-main{    
+    color: #0367A6;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2px solid #000;
+
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}
+.titulo{
+    font-size: 2rem;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    background-color: rgb(255, 221, 3);
+    height: 100vh;
+}
+.caixa_view{
+    border: #000 solid 2px;
+    height: 25vh;
+    width: 25vh;
+}
+.escolha_exer{
+    display: flex;
+    gap: 100px;
+}
+#pag1{
+    display: none;
+}
+#pag2{
+    display: none;
+}
+#pag3{
+    display: none;
+}
+#pag4{
+    display: none;
+}
+#pag5{
+    display: none;
+}
+#pag6{
+    display: none;
+}
+   
